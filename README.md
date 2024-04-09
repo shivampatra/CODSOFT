@@ -1,2 +1,2 @@
-# CODSOFT
-internship at CodSoft
+# JAVA PROGRAMMING
+some basic programs in java
